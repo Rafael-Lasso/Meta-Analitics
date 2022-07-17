@@ -1,13 +1,13 @@
-package com.metaAnalitics.mAnalitics;
+package com.metaanalitics.manalitics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MAnaliticsApplication {
+public class ManaliticsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MAnaliticsApplication.class, args);
+		SpringApplication.run(ManaliticsApplication.class, args);
 	}
 
 }

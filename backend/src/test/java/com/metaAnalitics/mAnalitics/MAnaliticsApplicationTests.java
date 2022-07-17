@@ -1,10 +1,10 @@
-package com.metaAnalitics.mAnalitics;
+package com.metaanalitics.manalitics;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MAnaliticsApplicationTests {
+class ManaliticsApplicationTests {
 
 	@Test
 	void contextLoads() {
